@@ -1,15 +1,14 @@
 Package: testpackageTest
-Title: What the Package Does (One Line, Title Case)
+Title: My Demo Package 
 Version: 0.0.0.9000
 Authors@R: 
-    person(given = "First",
-           family = "Last",
+    person(given = "Erik",
+           family = "Lovece",
            role = c("aut", "cre"),
-           email = "first.last@example.com",
+           email = "el2973@american.edu",
            comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
-License: `use_mit_license()`, `use_gpl3_license()` or friends to
-    pick a license
+Description: This is my basic package for practice purposes.
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
